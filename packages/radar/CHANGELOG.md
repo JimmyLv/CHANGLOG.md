@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.4](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.4.3...v1.4.4) (2019-05-22)
+
+
+### Bug Fixes
+
+* **ci:** update new preview url ([7985f79](https://github.com/JimmyLv/CHANGLOG.md/commit/7985f79))
+
+
+
+
+
 ## [1.4.3](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.4.2...v1.4.3) (2019-05-22)
 
 
