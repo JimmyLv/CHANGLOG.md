@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.3](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.4.2...v1.4.3) (2019-05-22)
+
+
+### Bug Fixes
+
+* **radar:** try to --github-release ([8960f2b](https://github.com/JimmyLv/CHANGLOG.md/commit/8960f2b))
+
+
+
+
+
 ## [1.4.2](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.4.1...v1.4.2) (2019-05-22)
 
 
