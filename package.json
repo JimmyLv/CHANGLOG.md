@@ -1,6 +1,6 @@
 {
   "name": "@jimmylv/life-changelog",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "description": "My life CHANGLOG and persistent methodology and tools radar.",
   "main": "index.js",
   "scripts": {
@@ -40,7 +40,8 @@
   "homepage": "https://github.com/JimmyLv/CHANGLOG.md#readme",
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "postpush": "yarn release"
     }
   },
   "config": {
