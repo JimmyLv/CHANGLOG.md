@@ -1,6 +1,6 @@
 {
   "name": "@jimmylv/workflow",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Alfred workflow collections",
   "main": "index.js",
   "author": "JimmyLv",
