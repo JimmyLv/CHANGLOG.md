@@ -4,7 +4,7 @@
   "description": "My life CHANGLOG and persistent methodology and tools radar.",
   "main": "index.js",
   "scripts": {
-    "release": "lerna publish --conventional-commits --yes",
+    "release": "lerna publish --conventional-commits",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "test": "jest"
   },
