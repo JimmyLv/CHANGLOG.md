@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.4.4...v1.5.0) (2019-05-22)
+
+
+### Bug Fixes
+
+* **hook:** close [#2](https://github.com/JimmyLv/CHANGLOG.md/issues/2) - auto release before push ([004dc09](https://github.com/JimmyLv/CHANGLOG.md/commit/004dc09))
+
+
+### Features
+
+* **ci:** close [#2](https://github.com/JimmyLv/CHANGLOG.md/issues/2) - auto release when push ([4dce391](https://github.com/JimmyLv/CHANGLOG.md/commit/4dce391))
+* **workflow:** add Alfred workflows ([0b179cd](https://github.com/JimmyLv/CHANGLOG.md/commit/0b179cd))
+
+
+
+
+
 ## [1.4.4](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.4.3...v1.4.4) (2019-05-22)
 
 
