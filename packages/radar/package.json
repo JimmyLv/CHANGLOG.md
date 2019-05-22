@@ -6,5 +6,9 @@
   "author": "JimmyLv",
   "license": "MIT",
   "private": false,
-  "gitHead": "a7cc1c3cd75af7d787e260b4d224e095a67f6485"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.com/"
+  },
+  "gitHead": "3ffb792fd6d94ddd6ad37e6b1a17cb213311d77f"
 }
