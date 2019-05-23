@@ -1,6 +1,6 @@
 {
   "name": "@jimmylv/life-website",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "For visualizing the life commits on website.",
   "scripts": {
     "build": "gulp build",
