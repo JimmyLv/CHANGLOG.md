@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.2](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.6.1...v1.6.2) (2019-05-23)
+
+
+### Bug Fixes
+
+* **life:** make private for life-website ([57cd09b](https://github.com/JimmyLv/CHANGLOG.md/commit/57cd09b))
+
+
+
+
+
 ## [1.6.1](https://github.com/JimmyLv/CHANGLOG.md/compare/v1.6.0...v1.6.1) (2019-05-23)
 
 
