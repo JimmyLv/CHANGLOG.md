@@ -1,0 +1,19 @@
+{
+  "name": "@jimmylv/life",
+  "version": "1.0.0",
+  "description": "Life as a git.",
+  "main": "index.js",
+  "author": "JimmyLv",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "init": "life --init",
+    "commit": "life --commit",
+    "log": "life --log",
+    "edit": "life --edit",
+    "dir": "life --dir ../"
+  },
+  "dependencies": {
+    "life-commit": "^0.1.2"
+  }
+}

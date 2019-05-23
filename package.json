@@ -1,8 +1,12 @@
 {
   "name": "@jimmylv/life-changelog",
   "version": "1.0.0",
+  "private": true,
   "description": "My life CHANGLOG and persistent methodology and tools radar.",
   "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "release": "lerna publish --github-release --conventional-commits --yes",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
