@@ -6,7 +6,7 @@
     "build": "gulp build",
     "start": "gulp"
   },
-  "private": false,
+  "private": true,
   "pugLintConfig": {
     "disallowHtmlText": true,
     "disallowDuplicateAttributes": true,
