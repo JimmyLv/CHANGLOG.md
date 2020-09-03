@@ -1,0 +1,10 @@
+{
+  "name": "@jimmylv/workflow",
+  "version": "1.5.1",
+  "description": "Alfred workflow collections",
+  "main": "index.js",
+  "author": "JimmyLv",
+  "license": "MIT",
+  "private": true,
+  "gitHead": "6f23462b6d1f5de450ee0afe6cd4435db837caa1"
+}
