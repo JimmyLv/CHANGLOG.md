@@ -14,6 +14,6 @@
     "dir": "life --dir ../"
   },
   "dependencies": {
-    "life-commit": "^0.1.2"
+    "life-commit": "0.1.2"
   }
 }
