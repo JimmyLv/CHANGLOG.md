@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@commitlint/cli@^7.2.1":
+"@commitlint/cli@7.6.1":
   version "7.6.1"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/@commitlint/cli/-/cli-7.6.1.tgz#a93cf995082831999937f6d5ec1a582c8fc0393a"
-  integrity sha1-qTz5lQgoMZmZN/bV7BpYLI/AOTo=
+  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-7.6.1.tgz#a93cf995082831999937f6d5ec1a582c8fc0393a"
+  integrity sha512-HEJwQ/aK0AOcAwn77ZKbb/GZhlGxBSPhtVp07uoJFVqM12l2Ia2JHA+MTpfHCFdVahKyYGREZgxde6LyKyG8aQ==
   dependencies:
     "@commitlint/format" "^7.6.1"
     "@commitlint/lint" "^7.6.0"
@@ -19,10 +19,10 @@
     resolve-from "5.0.0"
     resolve-global "1.0.0"
 
-"@commitlint/config-conventional@^7.1.2":
+"@commitlint/config-conventional@7.6.0":
   version "7.6.0"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/@commitlint/config-conventional/-/config-conventional-7.6.0.tgz#f3dc66bf39e3b627fdd6f5ac3d0510dd0dd38f94"
-  integrity sha1-89xmvznjtif91vWsPQUQ3Q3Tj5Q=
+  resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-7.6.0.tgz#f3dc66bf39e3b627fdd6f5ac3d0510dd0dd38f94"
+  integrity sha512-1Gnv5p3tc1VsEK25oTIRBO86czLtX6s/jeLNPAQRzdCnyEmsxkbx/sfoUJ1dwv7v8W++xckVnnuvdZv2Hp8yCw==
 
 "@commitlint/ensure@^7.6.0":
   version "7.6.0"
@@ -1461,10 +1461,10 @@ browser-sync-ui@^2.26.4:
     socket.io-client "^2.0.4"
     stream-throttle "^0.1.3"
 
-browser-sync@^2.18.13:
+browser-sync@2.26.5:
   version "2.26.5"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/browser-sync/-/browser-sync-2.26.5.tgz#c11353ffd4694be88a34b9a5d2a5a0ba789587d0"
-  integrity sha1-wRNT/9RpS+iKNLml0qWguniVh9A=
+  resolved "https://registry.yarnpkg.com/browser-sync/-/browser-sync-2.26.5.tgz#c11353ffd4694be88a34b9a5d2a5a0ba789587d0"
+  integrity sha512-zVa6MmadAFgl5Uk53Yy5cw5tGTO7xSGAWK3Yx70GJ1t5jK+r6B4q3xq+1XbYfLt1SbeFg7WoNWneNhMT4B9jFw==
   dependencies:
     browser-sync-client "^2.26.4"
     browser-sync-ui "^2.26.4"
@@ -2079,10 +2079,10 @@ conventional-changelog-atom@^2.0.1:
   dependencies:
     q "^1.5.1"
 
-conventional-changelog-cli@^2.0.11:
+conventional-changelog-cli@2.0.21:
   version "2.0.21"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/conventional-changelog-cli/-/conventional-changelog-cli-2.0.21.tgz#7469ddd663a8e68967b6d8c9c2cf207d1d7462f7"
-  integrity sha1-dGnd1mOo5olnttjJws8gfR10Yvc=
+  resolved "https://registry.yarnpkg.com/conventional-changelog-cli/-/conventional-changelog-cli-2.0.21.tgz#7469ddd663a8e68967b6d8c9c2cf207d1d7462f7"
+  integrity sha512-gMT1XvSVmo9Np1WUXz8Mvt3K+OtzR+Xu13z0jq/3qsXBbLuYc2/oaUXVr68r3fYOL8E9dN2uvX7Hc7RkeWvRVA==
   dependencies:
     add-stream "^1.0.0"
     conventional-changelog "^3.1.8"
@@ -2323,10 +2323,10 @@ create-error-class@^3.0.0:
   dependencies:
     capture-stack-trace "^1.0.0"
 
-cross-env@^5.1.1:
+cross-env@5.2.0:
   version "5.2.0"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/cross-env/-/cross-env-5.2.0.tgz#6ecd4c015d5773e614039ee529076669b9d126f2"
-  integrity sha1-bs1MAV1Xc+YUA57lKQdmabnRJvI=
+  resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-5.2.0.tgz#6ecd4c015d5773e614039ee529076669b9d126f2"
+  integrity sha512-jtdNFfFW1hB7sMhr/H6rW1Z45LFqyI431m3qU6bFXcQ3Eh7LtBuG3h74o7ohHZ3crrRkkqHlo4jYHFPcjroANg==
   dependencies:
     cross-spawn "^6.0.5"
     is-windows "^1.0.0"
@@ -2397,10 +2397,10 @@ cz-customizable@^4.0.0:
     winston "2.1.0"
     word-wrap "1.1.0"
 
-cz-lerna-changelog@^2.0.0:
+cz-lerna-changelog@2.0.2:
   version "2.0.2"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/cz-lerna-changelog/-/cz-lerna-changelog-2.0.2.tgz#58e7cd9afe1aabb6b30debf16564a9bb984bb55d"
-  integrity sha1-WOfNmv4aq7azDevxZWSpu5hLtV0=
+  resolved "https://registry.yarnpkg.com/cz-lerna-changelog/-/cz-lerna-changelog-2.0.2.tgz#58e7cd9afe1aabb6b30debf16564a9bb984bb55d"
+  integrity sha512-TucRHN/UerzCHmAAFgWvGN+2miz6lIAnnAD3RWEUri3yZHg8N1FIpEZAafRqDDZHN05HGZY/BrMavJtQqbAN9Q==
   dependencies:
     "@semantic-release/commit-analyzer" "^6.1.0"
     chalk "^1.1.3"
@@ -3657,9 +3657,9 @@ graceful-fs@~1.2.0:
   resolved "https://nexus.dev.casaba.tech/repository/npm/graceful-fs/-/graceful-fs-1.2.3.tgz#15a4806a57547cb2d2dbf27f42e89a8c3451b364"
   integrity sha1-FaSAaldUfLLS2/J/QuiajDRRs2Q=
 
-gulp-gh-pages@^0.5.4:
+gulp-gh-pages@0.5.4:
   version "0.5.4"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/gulp-gh-pages/-/gulp-gh-pages-0.5.4.tgz#a6732ca475ab9b5a53253c1c24734c40c21b6546"
+  resolved "https://registry.yarnpkg.com/gulp-gh-pages/-/gulp-gh-pages-0.5.4.tgz#a6732ca475ab9b5a53253c1c24734c40c21b6546"
   integrity sha1-pnMspHWrm1pTJTwcJHNMQMIbZUY=
   dependencies:
     gift "^0.6.1"
@@ -3669,19 +3669,19 @@ gulp-gh-pages@^0.5.4:
     vinyl-fs "^2.2.1"
     wrap-promise "^1.0.1"
 
-gulp-plumber@^1.1.0:
+gulp-plumber@1.2.1:
   version "1.2.1"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/gulp-plumber/-/gulp-plumber-1.2.1.tgz#d38700755a300b9d372318e4ffb5ff7ced0b2c84"
-  integrity sha1-04cAdVowC503Ixjk/7X/fO0LLIQ=
+  resolved "https://registry.yarnpkg.com/gulp-plumber/-/gulp-plumber-1.2.1.tgz#d38700755a300b9d372318e4ffb5ff7ced0b2c84"
+  integrity sha512-mctAi9msEAG7XzW5ytDVZ9PxWMzzi1pS2rBH7lA095DhMa6KEXjm+St0GOCc567pJKJ/oCvosVAZEpAey0q2eQ==
   dependencies:
     chalk "^1.1.3"
     fancy-log "^1.3.2"
     plugin-error "^0.1.2"
     through2 "^2.0.3"
 
-gulp-pug-lint@^0.1.6:
+gulp-pug-lint@0.1.6:
   version "0.1.6"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/gulp-pug-lint/-/gulp-pug-lint-0.1.6.tgz#c731e1a1877ace5c6b9c755945b0535388e24ece"
+  resolved "https://registry.yarnpkg.com/gulp-pug-lint/-/gulp-pug-lint-0.1.6.tgz#c731e1a1877ace5c6b9c755945b0535388e24ece"
   integrity sha1-xzHhoYd6zlxrnHVZRbBTU4jiTs4=
   dependencies:
     gulp-util "3.0.7"
@@ -3690,9 +3690,9 @@ gulp-pug-lint@^0.1.6:
     rcloader "0.1.4"
     through2 "2.0.0"
 
-gulp-pug@^3.3.0:
+gulp-pug@3.3.0:
   version "3.3.0"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/gulp-pug/-/gulp-pug-3.3.0.tgz#46982c1439c094c360542ed8ba5c882d3bb711cf"
+  resolved "https://registry.yarnpkg.com/gulp-pug/-/gulp-pug-3.3.0.tgz#46982c1439c094c360542ed8ba5c882d3bb711cf"
   integrity sha1-RpgsFDnAlMNgVC7YulyILTu3Ec8=
   dependencies:
     gulp-util "^3.0.2"
@@ -3700,10 +3700,10 @@ gulp-pug@^3.3.0:
     pug ">=2.0.0-alpha <3"
     through2 "^2.0.0"
 
-gulp-sass@^3.1.0:
+gulp-sass@3.2.1:
   version "3.2.1"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/gulp-sass/-/gulp-sass-3.2.1.tgz#2e3688a96fd8be1c0c01340750c191b2e79fab94"
-  integrity sha1-LjaIqW/YvhwMATQHUMGRsuefq5Q=
+  resolved "https://registry.yarnpkg.com/gulp-sass/-/gulp-sass-3.2.1.tgz#2e3688a96fd8be1c0c01340750c191b2e79fab94"
+  integrity sha512-UATbRpSDsyXCnpYSPBUEvdvtSEzksJs7/oQ0CujIpzKqKrO6vlnYwhX2UTsGrf4rNLwqlSSaM271It0uHYvJ3Q==
   dependencies:
     gulp-util "^3.0"
     lodash.clonedeep "^4.3.2"
@@ -3770,9 +3770,9 @@ gulp-util@^3.0, gulp-util@^3.0.0, gulp-util@^3.0.2, gulp-util@^3.0.7:
     through2 "^2.0.0"
     vinyl "^0.5.0"
 
-gulp@^3.9.1:
+gulp@3.9.1:
   version "3.9.1"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/gulp/-/gulp-3.9.1.tgz#571ce45928dd40af6514fc4011866016c13845b4"
+  resolved "https://registry.yarnpkg.com/gulp/-/gulp-3.9.1.tgz#571ce45928dd40af6514fc4011866016c13845b4"
   integrity sha1-VxzkWSjdQK9lFPxAEYZgFsE4RbQ=
   dependencies:
     archy "^1.0.0"
@@ -3980,10 +3980,10 @@ humanize-ms@^1.2.1:
   dependencies:
     ms "^2.0.0"
 
-husky@^1.3.1:
+husky@1.3.1:
   version "1.3.1"
-  resolved "https://nexus.dev.casaba.tech/repository/npm/husky/-/husky-1.3.1.tgz#26823e399300388ca2afff11cfa8a86b0033fae0"
-  integrity sha1-JoI+OZMAOIyir/8Rz6ioawAz+uA=
+  resolved "https://registry.yarnpkg.com/husky/-/husky-1.3.1.tgz#26823e399300388ca2afff11cfa8a86b0033fae0"
+  integrity sha512-86U6sVVVf4b5NYSZ0yvv88dRgBSSXXmHaiq5pP4KDj5JVzdwKgBjEtUPOm8hcoytezFwbU+7gotXNhpHdystlg==
   dependencies:
     cosmiconfig "^5.0.7"
     execa "^1.0.0"
@@ -4803,9 +4803,9 @@ lcid@^2.0.0:
   dependencies:
     invert-kv "^2.0.0"
 
-lerna@^3.14.1:
+lerna@3.14.1:
   version "3.14.1"
-  resolved "https://registry.npmjs.org/lerna/-/lerna-3.14.1.tgz#6bce5d2d4958e853f51387f8f41a8f2d9aa4a8ea"
+  resolved "https://registry.yarnpkg.com/lerna/-/lerna-3.14.1.tgz#6bce5d2d4958e853f51387f8f41a8f2d9aa4a8ea"
   integrity sha512-lQxmGeEECjOMI3pRh2+I6jazoEWhEfvZNIs7XaX71op33AVwyjlY/nQ1GJGrPhxYBuQnlPgH0vH/nC/lcLaVkw==
   dependencies:
     "@lerna/add" "3.14.0"
@@ -4851,9 +4851,9 @@ libnpmpublish@^1.1.1:
     semver "^5.5.1"
     ssri "^6.0.1"
 
-life-commit@^0.1.2:
+life-commit@0.1.2:
   version "0.1.2"
-  resolved "https://registry.npmjs.org/life-commit/-/life-commit-0.1.2.tgz#5c58dc20066a556ef2ea99cf4b8dc5885c863bc1"
+  resolved "https://registry.yarnpkg.com/life-commit/-/life-commit-0.1.2.tgz#5c58dc20066a556ef2ea99cf4b8dc5885c863bc1"
   integrity sha512-Kb3q9PrMwnXrPu2IlEqEI+CYd1nhWfsMQxcNSy8Y9LOQ67ZeQwcemezZOGnZ2ywSIC7dZz3ocyfAdL8jnAXgqg==
   dependencies:
     axios "^0.17.1"
