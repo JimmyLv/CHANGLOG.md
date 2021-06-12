@@ -15,7 +15,7 @@
     "requireLowerCaseAttributes": true
   },
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "4.0.2",
     "gulp-plumber": "^1.1.0",
     "gulp-pug": "^3.3.0",
     "gulp-pug-lint": "^0.1.6",
