@@ -22,7 +22,7 @@
     "gulp-sass": "^3.1.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.18.13",
+    "browser-sync": "2.27.9",
     "gulp-gh-pages": "^0.5.4"
   },
   "gitHead": "7d50311df69f4cc7125f7fdef0e2c97de8186868"
